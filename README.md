@@ -1,7 +1,9 @@
 # my_notebook
 My notebook for code!!!
 
-Hi people of the internet
-this is will
+linux commands:
 
-Hi will, this is uncle Joe!
+`ls` - list files
+`pwd` - show present working directory
+
+
