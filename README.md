@@ -9,8 +9,8 @@ My notebook for code!!!
 
 `cd <location>` - change directory
     
-    `cd ..` - move up a directory
+`cd ..` - move up a directory
     
-    `cd ~` - go to the user home directory
+`cd ~` - go to the user home directory
     
-    `cd /` - go to root directory
+`cd /` - go to root directory
