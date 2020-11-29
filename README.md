@@ -14,3 +14,7 @@ My notebook for code!!!
 `cd ~` - go to the user home directory
     
 `cd /` - go to root directory
+
+`whoami` - show you your user name.
+
+`sudo su` - go to super user account.  Type `exit` to leave super user mode.
