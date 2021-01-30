@@ -18,3 +18,5 @@ My notebook for code!!!
 `whoami` - show you your user name.
 
 `sudo su` - go to super user account.  Type `exit` to leave super user mode.
+
+`mkdir <directory>` - make directory
