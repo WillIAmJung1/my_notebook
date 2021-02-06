@@ -20,3 +20,5 @@ My notebook for code!!!
 `sudo su` - go to super user account.  Type `exit` to leave super user mode.
 
 `mkdir <directory>` - make directory
+
+`cat <file>` - concatinate: reads a file
