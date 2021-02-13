@@ -22,3 +22,9 @@ My notebook for code!!!
 `mkdir <directory>` - make directory
 
 `cat <file>` - concatinate: reads a file
+
+` ~ ` Home
+
+` / ` Root
+
+`curl <url>` - make request to url
