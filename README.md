@@ -17,7 +17,8 @@ My notebook for code!!!
 
 `whoami` - show you your user name.
 
-`sudo su` - go to super user account.  Type `exit` to leave super user mode.
+`sudo su` - go to super user account.  
+(Type `exit` to leave super user mode.)
 
 `mkdir <directory>` - make directory
 
@@ -28,3 +29,15 @@ My notebook for code!!!
 ` / ` Root
 
 `curl <url>` - make request to url
+
+`man (any command)` and `q` to exit man
+        (man stands for manual)
+
+`vim/vi` Stands for visual text editor
+        (`:q<Enter>` to exit vim/vi)
+        (To move use `h` to go left
+                     `j` to go down
+                     `k` to go up
+                     `l` to go right)
+      
+`git pull` to sync into terminal
