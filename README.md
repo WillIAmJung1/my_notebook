@@ -41,3 +41,5 @@ My notebook for code!!!
                      `l` to go right)
       
 `git pull` to sync into terminal
+
+`git add .` staged all changed files
