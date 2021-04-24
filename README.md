@@ -39,7 +39,10 @@ My notebook for code!!!
                      `j` to go down
                      `k` to go up
                      `l` to go right)
+                     
+to move back an word use `b` and to move foward an word use `w`                     
       
 `git pull` to sync into terminal
 
 `git add .` staged all changed files
+
