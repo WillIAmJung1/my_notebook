@@ -46,3 +46,4 @@ to move back an word use `b` and to move foward an word use `w`
 
 `git add .` staged all changed files
 
+use `x` to delete an character
