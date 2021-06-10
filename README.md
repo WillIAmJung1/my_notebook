@@ -49,3 +49,5 @@ to move back an word use `b` and to move foward an word use `w`
 use `x` to delete an characte
 
 'chmod +x <file>' to change file mode  
+
+`mv <source file> <target loc>` to move a file to a know location
